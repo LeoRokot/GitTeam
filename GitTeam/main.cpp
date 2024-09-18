@@ -23,7 +23,7 @@ using namespace std;
         }
         case 2:
         {
-
+		cout << MySub(a,b) << endl;
             break;
         }
         case 3:
