@@ -18,7 +18,7 @@ using namespace std;
         {
         case 1:
         {
-
+		cout << MySum(a,b) << endl;
             break;
         }
         case 2:
