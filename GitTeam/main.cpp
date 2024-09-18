@@ -28,7 +28,7 @@ using namespace std;
         }
         case 3:
         {
-
+                cout << MyDiv(a,b) << endl;
             break;
         }
         case 4:
