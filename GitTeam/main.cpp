@@ -28,12 +28,12 @@ using namespace std;
         }
         case 3:
         {
-
+                cout << MyDiv(a,b) << endl;
             break;
         }
         case 4:
         {
-
+                cout << MyMul(a,b) << endl;
             break;
         }
         default: // если count равно любому другому значению
