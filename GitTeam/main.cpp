@@ -23,12 +23,12 @@ using namespace std;
         }
         case 2:
         {
-
+		cout << MySub(a,b) << endl;
             break;
         }
         case 3:
         {
-
+                cout << MyDiv(a,b) << endl;
             break;
         }
         case 4:
