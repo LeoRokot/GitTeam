@@ -33,7 +33,7 @@ using namespace std;
         }
         case 4:
         {
-
+                cout << MyMul(a,b) << endl;
             break;
         }
         default: // если count равно любому другому значению
